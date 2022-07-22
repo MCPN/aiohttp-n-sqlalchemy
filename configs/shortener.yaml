@@ -1,0 +1,4 @@
+domain: domain
+shortener_type: incremental
+params:
+  initial_value: 123
